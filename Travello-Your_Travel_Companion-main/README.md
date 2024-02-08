@@ -1,3 +1,5 @@
+Travel Companion Web Application using Rapid API, Google Maps API, and Open Weather API
+
 🌍 Explore the World's Finest Destinations
 Embark on a journey to discover the most extraordinary destinations worldwide! Our innovative technology effortlessly fetches data from specialized APIs, providing you with a comprehensive range of information on restaurants, hotels, attractions, and beyond.
 
